@@ -33,7 +33,7 @@ namespace RazorPagesNew.Models
                     {
                         Name = "New York Jets",
                         CreationDate = DateTime.Parse("1984-3-13"),
-                        Sport = "Footba;;",
+                        Sport = "Football",
                         Worth = 8.99M
                     },
 
